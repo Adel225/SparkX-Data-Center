@@ -1,0 +1,82 @@
+﻿Study Shape Generator:1 started: 3/15/2026, 12:17:02 PM
+Number of configurations: 1
+Default mesh: 10364 elements, 17691 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.37  on element 4586 finished: 3/15/2026, 12:17:29 PM
+Total time 0:00:27
+
+Study Shape Generator:1 started: 3/15/2026, 12:18:22 PM
+Number of configurations: 1
+Default mesh: 10364 elements, 17691 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.37  on element 4586 finished: 3/15/2026, 12:18:55 PM
+Total time 0:00:33
+
+Study Shape Generator:1 started: 3/15/2026, 12:21:45 PM
+Number of configurations: 1
+Default mesh: 10364 elements, 17691 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.37  on element 4586 finished: 3/15/2026, 12:22:13 PM
+Total time 0:00:27
+
+Study Shape Generator:1 started: 3/15/2026, 12:24:16 PM
+Number of configurations: 1
+Default mesh: 10364 elements, 17691 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.37  on element 4586 finished: 3/15/2026, 12:24:49 PM
+Total time 0:00:33
+
+Study Static Analysis:2 started: 3/15/2026, 12:42:19 PM
+Number of configurations: 1
+Default mesh: 2437 elements, 4772 nodes
+Solution time 0.4s
+Convergence rate: 5.57%
+Problem converged 
+Study        Worst Jacobian ratio :  1.68  on element 1422 finished: 3/15/2026, 12:42:20 PM
+Total time 0:00:01
+
+Study Static Analysis:3 started: 3/15/2026, 12:43:48 PM
+Number of configurations: 1
+Default mesh: 2437 elements, 4772 nodes
+Solution time 0.5s
+Convergence rate: 5.27%
+Problem converged 
+Study Static Analysis:3 finished: 3/15/2026, 12:43:49 PM
+Total time 0:00:01
+
+Study Static Analysis:3 started: 3/15/2026, 12:46:54 PM
+Number of configurations: 1
+Default mesh: 2437 elements, 4772 nodes
+Solution time 0.5s
+Convergence rate: 17.8%
+Reached the total number of h refinements 
+Study Static Analysis:3 finished: 3/15/2026, 12:46:55 PM
+Total time 0:00:01
+
+Study Shape Generator:1 started: 3/15/2026, 12:55:06 PM
+Number of configurations: 1
+Default mesh: 8142 elements, 14320 nodes
+Study        Worst Jacobian ratio :  2.47  on element 3727 failed. 3/15/2026, 12:55:10 PM
+Total time 0:00:04
+
+Study Shape Generator:1 started: 3/15/2026, 12:55:45 PM
+Number of configurations: 1
+Default mesh: 8142 elements, 14320 nodes
+Reached the total number of h refinements 
+Study Shape Generator:1 finished: 3/15/2026, 12:56:07 PM
+Total time 0:00:22
+
+Study Shape Generator:1 started: 3/15/2026, 12:59:13 PM
+Number of configurations: 1
+Default mesh: 11430 elements, 19636 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.51  on element 4063 finished: 3/15/2026, 12:59:40 PM
+Total time 0:00:27
+
+Study Shape Generator:1 started: 3/15/2026, 1:07:10 PM
+Number of configurations: 1
+Default mesh: 11430 elements, 19636 nodes
+Reached the total number of h refinements 
+Study        Worst Jacobian ratio :  2.51  on element 4063 finished: 3/15/2026, 1:07:37 PM
+Total time 0:00:27
+
